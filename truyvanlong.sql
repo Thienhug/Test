@@ -1,4 +1,5 @@
-﻿--cho biết luong trung binh cua tung phong 
+﻿-- alo bạn ơi
+--cho biết luong trung binh cua tung phong 
 select AVG(NHANVIEN.LUONG)
 from NHANVIEN
 group by NHANVIEN.PHG
