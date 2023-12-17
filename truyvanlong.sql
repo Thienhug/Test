@@ -66,4 +66,4 @@ where not exists ( select  *
 									  from PHANCONG
 									  where PHANCONG.MA_NVIEN = NHANVIEN.MANV)
 				 )
---bsdfjhgjahlHUKHELKhfiug
+--bsdfjhgjahlHUKHELKhfiugkkkkkkkmss
